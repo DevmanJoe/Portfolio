@@ -16,7 +16,6 @@ export const skills: Skill[] = [
   { name: 'Django', level: 85, category: 'backend' },
   { name: 'REST APIs', level: 92, category: 'backend' },
   { name: 'SQL', level: 87, category: 'backend' },
-  { name: 'Node.js', level: 82, category: 'backend' },
   
   // Mobile
   { name: 'React Native', level: 80, category: 'mobile' },
