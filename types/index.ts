@@ -25,11 +25,9 @@ export interface Skill {
   category: 'frontend' | 'backend' | 'mobile' | 'tools';
 }
 
-export interface BlogPost {
-  id: string;
-  title: string;
-  excerpt: string;
-  date: string;
-  readTime: string;
-  tags: string[];
+export interface ContactFormData {
+  name: string;
+  email: string;
+  subject: string;
+  message: string;
 }
