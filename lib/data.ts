@@ -81,7 +81,7 @@ export const projects: Project[] = [
     description: 'Full-featured e-commerce solution with admin dashboard',
     longDescription: 'A complete e-commerce platform built with Next.js for the frontend and Django REST Framework for the backend. Features include user authentication, product management, shopping cart, payment integration, and order tracking.',
     technologies: ['Next.js', 'TypeScript', 'Django', 'PostgreSQL', 'Stripe', 'Tailwind CSS', 'REST API'],
-    imageUrl: '/projects/ecommerce.png',
+    imageUrl: '/ecommerce.jpg',
     githubUrl: 'https://github.com/devmanjoe/ecommerce-platform',
     liveUrl: 'https://ecommerce.josephabu.dev',
     features: [
@@ -98,7 +98,7 @@ export const projects: Project[] = [
     description: 'Collaborative project management tool with real-time updates',
     longDescription: 'A Trello-like task management application with real-time collaboration features. Built with React, Next.js, and Django Channels for WebSocket communication.',
     technologies: ['React', 'Next.js', 'Django Channels', 'WebSocket', 'Redis', 'Tailwind CSS', 'TypeScript'],
-    imageUrl: '/projects/taskapp.png',
+    imageUrl: '/taskapp.jpg',
     githubUrl: 'https://github.com/devmanjoe/task-management',
     liveUrl: 'https://tasks.josephabu.dev',
     features: [
@@ -115,7 +115,7 @@ export const projects: Project[] = [
     description: 'Cross-platform fitness app with workout plans and progress tracking',
     longDescription: 'A React Native mobile application for fitness tracking with Django backend. Includes workout routines, progress charts, social features, and nutrition tracking.',
     technologies: ['React Native', 'Django REST', 'GraphQL', 'PostgreSQL', 'Expo', 'TypeScript'],
-    imageUrl: '/projects/fitness.png',
+    imageUrl: '/fitness.jpg',
     githubUrl: 'https://github.com/devmanjoe/fitness-tracker',
     features: [
       'Workout plan customization',
@@ -131,7 +131,7 @@ export const projects: Project[] = [
     description: 'Modern real estate listing platform with advanced filters',
     longDescription: 'A comprehensive real estate portal built with Next.js and Django. Features property listings, advanced search filters, agent profiles, and mortgage calculator.',
     technologies: ['Next.js', 'Django', 'PostgreSQL', 'Mapbox', 'Tailwind CSS', 'REST API'],
-    imageUrl: '/projects/realestate.png',
+    imageUrl: '/realestate.jpg',
     githubUrl: 'https://github.com/devmanjoe/real-estate-portal',
     liveUrl: 'https://realestate.josephabu.dev',
     features: [
@@ -148,7 +148,7 @@ export const projects: Project[] = [
     description: 'Content management system for bloggers and writers',
     longDescription: 'A feature-rich blogging platform built with Next.js and Django. Includes rich text editor, SEO optimization, user roles, and analytics dashboard.',
     technologies: ['Next.js', 'Django', 'PostgreSQL', 'Editor.js', 'SEO', 'REST API'],
-    imageUrl: '/projects/blogcms.png',
+    imageUrl: '/blogcms.jpg',
     githubUrl: 'https://github.com/devmanjoe/blog-cms',
     liveUrl: 'https://blog.josephabu.dev',
     features: [
@@ -165,7 +165,7 @@ export const projects: Project[] = [
     description: 'Online education platform with course management',
     longDescription: 'A comprehensive LMS built with Next.js and Django for online education. Features course creation, student enrollment, video streaming, and progress tracking.',
     technologies: ['Next.js', 'Django', 'PostgreSQL', 'Video.js', 'Stripe', 'REST API'],
-    imageUrl: '/projects/lms.png',
+    imageUrl: '/lms.jpg',
     githubUrl: 'https://github.com/devmanjoe/learning-system',
     liveUrl: 'https://learn.josephabu.dev',
     features: [
