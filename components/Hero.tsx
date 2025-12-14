@@ -101,7 +101,7 @@ export default function Hero() {
                     <div className="w-3 h-3 rounded-full bg-green-500"></div>
                   </div>
                   <pre className="text-green-400 text-sm overflow-x-auto">
-                    <code>{`// Joseph Abu - Fullstack Developer\nconst expertise = {\n  frontend: ['React', 'Next.js', 'TypeScript'],\n  backend: ['Python', 'Django', 'Node.js'],\n  mobile: ['React Native'],\n  tools: ['Git', 'AWS', 'Docker']\n};`}</code>
+                    <code>{`// Joseph Abu - Fullstack Developer\nconst expertise = {\n  frontend: ['React', 'Next.js', 'TypeScript'],\n  backend: ['Python', 'Django'],\n  mobile: ['React Native'],\n  tools: ['Git', 'AWS', 'Docker']\n};`}</code>
                   </pre>
                 </div>
               </div>
