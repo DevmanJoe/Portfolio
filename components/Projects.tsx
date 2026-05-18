@@ -132,7 +132,7 @@ export default function Projects() {
                       <a
                         href={project.liveUrl}
                         target="_blank"
-                        rel="noopener noreferrer"
+                        rel="dofollow"
                         className="flex items-center text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors text-sm"
                       >
                         <ExternalLink className="h-4 w-4 md:h-5 md:w-5 mr-1.5" />
