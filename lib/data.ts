@@ -77,13 +77,13 @@ export const experiences: Experience[] = [
 export const projects: Project[] = [
   {
     id: '1',
-    title: 'E-Commerce Platform',
-    description: 'Full-featured e-commerce solution with admin dashboard',
-    longDescription: 'A complete e-commerce platform built with Next.js for the frontend and Django REST Framework for the backend. Features include user authentication, product management, shopping cart, payment integration, and order tracking.',
+    title: 'Social Business Platform',
+    description: 'Full-featured social business solution with admin dashboard',
+    longDescription: 'A complete social business platform built with Next.js for the frontend and Django REST Framework for the backend. Features include user authentication, product management, realtime messaging, create post, save post, comment on post, reply comment, review users, follow users and lots more.',
     technologies: ['Next.js', 'TypeScript', 'Django', 'PostgreSQL', 'Stripe', 'Tailwind CSS', 'REST API'],
     imageUrl: '/ecommerce.jpg',
-    githubUrl: 'https://github.com/devmanjoe/ecommerce-platform',
-    liveUrl: 'https://ecommerce.josephabu.dev',
+    githubUrl: 'https://github.com/devmanjoe',
+    liveUrl: 'https://storkim.com',
     features: [
       'Real-time inventory management',
       'Secure payment processing with Stripe',
@@ -99,8 +99,8 @@ export const projects: Project[] = [
     longDescription: 'A Trello-like task management application with real-time collaboration features. Built with React, Next.js, and Django Channels for WebSocket communication.',
     technologies: ['React', 'Next.js', 'Django Channels', 'WebSocket', 'Redis', 'Tailwind CSS', 'TypeScript'],
     imageUrl: '/taskapp.jpg',
-    githubUrl: 'https://github.com/devmanjoe/task-management',
-    liveUrl: 'https://tasks.josephabu.dev',
+    githubUrl: 'https://github.com/devmanjoe',
+    liveUrl: 'https://storkim.com',
     features: [
       'Real-time task updates',
       'Drag-and-drop interface',
@@ -116,7 +116,7 @@ export const projects: Project[] = [
     longDescription: 'A React Native mobile application for fitness tracking with Django backend. Includes workout routines, progress charts, social features, and nutrition tracking.',
     technologies: ['React Native', 'Django REST', 'GraphQL', 'PostgreSQL', 'Expo', 'TypeScript'],
     imageUrl: '/fitness.jpg',
-    githubUrl: 'https://github.com/devmanjoe/fitness-tracker',
+    githubUrl: 'https://github.com/devmanjoe',
     features: [
       'Workout plan customization',
       'Progress analytics and charts',
@@ -132,8 +132,8 @@ export const projects: Project[] = [
     longDescription: 'A comprehensive real estate portal built with Next.js and Django. Features property listings, advanced search filters, agent profiles, and mortgage calculator.',
     technologies: ['Next.js', 'Django', 'PostgreSQL', 'Mapbox', 'Tailwind CSS', 'REST API'],
     imageUrl: '/realestate.jpg',
-    githubUrl: 'https://github.com/devmanjoe/real-estate-portal',
-    liveUrl: 'https://realestate.josephabu.dev',
+    githubUrl: 'https://github.com/devmanjoe',
+    liveUrl: 'https://storkim.com',
     features: [
       'Advanced property search filters',
       'Interactive map integration',
@@ -149,8 +149,8 @@ export const projects: Project[] = [
     longDescription: 'A feature-rich blogging platform built with Next.js and Django. Includes rich text editor, SEO optimization, user roles, and analytics dashboard.',
     technologies: ['Next.js', 'Django', 'PostgreSQL', 'Editor.js', 'SEO', 'REST API'],
     imageUrl: '/blogcms.jpg',
-    githubUrl: 'https://github.com/devmanjoe/blog-cms',
-    liveUrl: 'https://blog.josephabu.dev',
+    githubUrl: 'https://github.com/devmanjoe',
+    liveUrl: 'https://storkim.com',
     features: [
       'Rich text editor with media support',
       'SEO optimization tools',
@@ -167,7 +167,7 @@ export const projects: Project[] = [
     technologies: ['Next.js', 'Django', 'PostgreSQL', 'Video.js', 'Stripe', 'REST API'],
     imageUrl: '/lms.jpg',
     githubUrl: 'https://github.com/devmanjoe/learning-system',
-    liveUrl: 'https://learn.josephabu.dev',
+    liveUrl: 'https://storkim.com',
     features: [
       'Course creation and management',
       'Video streaming capabilities',
